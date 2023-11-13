@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+게임공학과 어린이들을 위해 코드를 모두 공개 해 놓았다.
+하지만 엉망 진창이니 검사하는 조교님 혹은 교수님에 따라 통과 못 할 수도 있음을 미리 알린다.
+이상
+
 <!--
 **D4LGONA/D4LGONA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
