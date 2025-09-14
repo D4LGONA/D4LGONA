@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-피곤하다
-
 <!--
 **D4LGONA/D4LGONA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
