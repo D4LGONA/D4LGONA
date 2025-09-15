@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+클라도 하고 서버도 하고 그림도 그리고 모델링도 합니당.
+
 <!--
 **D4LGONA/D4LGONA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
