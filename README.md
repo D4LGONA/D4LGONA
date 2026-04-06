@@ -1,7 +1,7 @@
 ### Hi there 👋
 🐶 게임 서버를 공부중인 김해님입니다
 
-저는 새로운 것을 배우는 것과 디버깅을 좋아해요!
+저는 새로운 것을 배우는 것을 좋아해요!
 
 ### 💬 언어 (Languages)
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
